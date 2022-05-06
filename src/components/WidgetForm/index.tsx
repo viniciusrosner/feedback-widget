@@ -66,7 +66,7 @@ const WidgetForm = () => {
         Made by {" "}
         <a
           className="underline underline-offset-2"
-          href="https://github.com/viniciusrosner"
+          href="https://github.com/viniciusrosner" target="_blank"
         >Vinicius Rosner
         </a>
       </footer>
